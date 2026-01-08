@@ -27,3 +27,6 @@ config.py
 # Build artifacts
 dist/
 build/
+
+# DB Files
+chroma_db
